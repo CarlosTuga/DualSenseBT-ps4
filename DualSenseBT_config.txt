@@ -1,0 +1,25 @@
+; PS4: /data/payloads/DualSenseBT_config.txt
+; Recarregado a cada 2 segundos. Valores decimais.
+[dualsense]
+led_r=0
+led_g=112
+led_b=209
+; 0=fixa, 1=pulsar, 2=alternar cores
+light_effect=0
+; 0=off, 1=resistencia, 2=arma, 3=vibracao fixa, 4=sincronizado com jogo
+trigger_mode=4
+; Intensidade 0..128
+trigger_strength=80
+; Inicio 0..200 (modo vibracao limitado a 147)
+trigger_start=45
+; Frequencia 0..100
+trigger_frequency=30
+; No modo 4, tambem reproduzir a vibracao convencional no corpo do comando
+; 0=so gatilhos sincronizados, 1=gatilhos e motores do corpo
+game_rumble=1
+; 1=usar quatro LEDs brancos exteriores como quatro barras de bateria
+battery_leds=1
+; 1=avisos automaticos de bateria, 0=apenas consulta manual
+battery_notify=1
+; 1=Create (defeito), 0=PS para os atalhos/painel
+shortcut_button=1
