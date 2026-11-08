@@ -1,5 +1,7 @@
 # DualSenseBT-ps4
-Copia esses 2 arquivos para dentro da pasta payloads logo carregas o payload pelo gold hen
+Conecta o dualsense por Bluetooth á ps4 uma ves conectado desliga o comando e
+Copia esses 2 arquivos para dentro da pasta payloads logo carregas o payload pelo gold hen 
+uma vez carregado o payload liga o dualsense no botao PS e vai funcionar
 
 
 DualSenseBT — touchpad, giroscópio e autocentramento experimental
